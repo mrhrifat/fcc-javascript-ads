@@ -15,9 +15,6 @@ It will be helpful for  any future Programmer, who want to learn JavaScript from
 - All codes are written in JavaScript.
 - Easy to understand.
 
-## Free Code Camp
-In this repository all programming problem is taken from online learning site called, Free Code Camp. <br>
-**Before this**, I created this repository in April 21 but unfortunately because of some terminal issues, I have to delete this. So again now I am going to create new and solve problem again with much better knowledge. 
 
 ## Agenda
 - Basic JavaScript
@@ -27,20 +24,9 @@ In this repository all programming problem is taken from online learning site ca
 - Basic Data Structure
 - Basic Algorithm Scripting
 - Object Oriented Programming
-- [Functional Programming ](https://github.com/mrhrifat/fcc-javascript-a-ds/tree/master/FunctionalProgramming)
-- [Intermediate Algorithm Scripting](https://github.com/mrhrifat/fcc-javascript-a-ds/tree/master/IntermediateAlgorithmScripting)
-- [Project](https://github.com/mrhrifat/fcc-javascript-a-ds/tree/master/Project)
-
-## How To Contribute
-I will be open to any contribution. If you have any idea, please let me know. I will be happy to help you.
-1. Fork this repository
-2. Clone on your local environment with IDE.
-3. Makes your changes to code.
-4. Commit your changes.
-5. Create a new pull request
-6. Wait for the pull request to be merged.
-
-**Note:** If you want to do a major changes than first create an Issue.
+- [Functional Programming ](https://github.com/mrhrifat/fcc-javascript-ads/tree/master/FunctionalProgramming)
+- [Intermediate Algorithm Scripting](https://github.com/mrhrifat/fcc-javascript-ads/tree/master/IntermediateAlgorithmScripting)
+- [Project](https://github.com/mrhrifat/fcc-javascript-ads/tree/master/Project)
 
 
 ## License
