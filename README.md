@@ -35,4 +35,4 @@ It will be helpful for any future Programmer, who want to learn JavaScript from 
 
 ## License
 
-This project is licensed under [GPL-3.0](https://github.com/mrhrifat/fcc-javascript-a-ds/blob/master/LICENSE.md).
+This project is licensed under [GPL-3.0](https://github.com/mrhrifat/fcc-javascript-ads/blob/master/LICENSE.md).
