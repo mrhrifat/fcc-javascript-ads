@@ -1,8 +1,8 @@
 function whatIsInAName(collection, source) {
-    const arr = [];
+    // const arr = [];
     // Only change code below this line
     let srcKey = Object.keys((source))
-    // console.log(Object.keys((source)))
+    console.log(Object.keys((source)))
     return collection.filter(v => {
         // console.log(v)
         return srcKey.every(k => {
