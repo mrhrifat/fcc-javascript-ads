@@ -19,3 +19,7 @@ In this repository all programming problem is taken from online learning site ca
 
 ### Project
 There are 5 project section also. Where have to submit 5 programming problem solution.  After finished all of them, they provide us a certification of completion.
+
+### Alhamdulillah...
+I finished this tour with JavaScript Algorithms and Data Structures Officially in freeCodeCamp. I got certification of completion. But as I say before for some issure I created this repository again and all of code isn't available. InshaAllah... I will do repractice and add them with category and as usual in async way.
+
