@@ -50,3 +50,5 @@ const numberToRoman = num => {
     return result
 }
 console.log(numberToRoman(45))
+console.log(numberToRoman(5))
+console.log(numberToRoman(3))
