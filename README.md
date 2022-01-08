@@ -19,7 +19,7 @@ It will be helpful for  any future Programmer, who want to learn JavaScript from
 In this repository all programming problem is taken from online learning site called, Free Code Camp. <br>
 **Before this**, I created this repository in April 21 but unfortunately because of some terminal issues, I have to delete this. So again now I am going to create new and solve problem again with much better knowledge. 
 
-## Lesson
+## Agenda
 - Basic JavaScript
 - ES6
 - Regular Expression
@@ -27,9 +27,9 @@ In this repository all programming problem is taken from online learning site ca
 - Basic Data Structure
 - Basic Algorithm Scripting
 - Object Oriented Programming
-- Functional Programming 
-- Intermediate Algorithm Scripting
-- Project
+- [Functional Programming ](https://github.com/mrhrifat/fcc-javascript-a-ds/tree/master/FunctionalProgramming)
+- [Intermediate Algorithm Scripting](https://github.com/mrhrifat/fcc-javascript-a-ds/tree/master/IntermediateAlgorithmScripting)
+- [Project](https://github.com/mrhrifat/fcc-javascript-a-ds/tree/master/Project)
 
 ## How To Contribute
 I will be open to any contribution. If you have any idea, please let me know. I will be happy to help you.
