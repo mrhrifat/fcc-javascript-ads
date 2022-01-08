@@ -11,7 +11,7 @@ It's not enough to know how to write a simple program to do something. You need 
 ## Motive
 It will be helpful for  any future Programmer, who want to learn JavaScript from `Basic` to `Advance` by practice & solving problem. It will be a good experience to for Programmers because of the following reasons:
 - Codes are written from scratch to advance.
-- These are the code of [freeCodeCamp](#-free-code-camp-) course.
+- These are the code of [freeCodeCamp](#free-code-camp) course.
 - All codes are written in JavaScript.
 - Easy to understand.
 
